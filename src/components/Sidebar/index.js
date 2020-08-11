@@ -15,7 +15,7 @@ const Sidebar = () => {
                 </div>
             </Card>
 
-            <Card > 
+            <Card style={{marginBottom:'20px',padding:'20px',boxSizing:'border-box'}}> 
             <div className="cardHeader">
                 <span>Social Network</span>
             </div>
